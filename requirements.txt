@@ -1,0 +1,15 @@
+pandas
+torch
+python-dotenv
+requests
+fastapi
+uvicorn
+pydantic
+ipykernel
+flask
+evalute
+numpy
+nltk
+scikit-learn
+
+-e .

@@ -1,0 +1,11 @@
+AI-Powered-Interview-APP
+
+Step 1:
+Create a virtual environment:
+- conda create -p env python==3.11 y
+- conda activate ./env
+
+Install required packages:
+- pip install -r requirements.txt (after creating requirements.txt)
+
+Add .env to .gitignore
