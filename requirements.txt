@@ -7,9 +7,9 @@ uvicorn
 pydantic
 ipykernel
 flask
-evalute
 numpy
 nltk
 scikit-learn
-
+transformers
+sentence-transformers
 -e .

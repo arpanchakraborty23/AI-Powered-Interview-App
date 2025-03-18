@@ -9,3 +9,21 @@ Install required packages:
 - pip install -r requirements.txt (after creating requirements.txt)
 
 Add .env to .gitignore
+
+Step 2:
+Create logging configuration:
+- Create logs directory
+- Setup logging.info
+- Configure logging levels (DEBUG, INFO)
+
+Create exception handling:
+- Create custom exception class in exception.py
+- Implement error codes and messages
+- Inharite exception module
+
+Setup utils:
+- Create utils.py for common functions
+- Implement file operations helpers
+
+
+Step 3:
